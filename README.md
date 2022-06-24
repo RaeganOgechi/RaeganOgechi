@@ -62,7 +62,7 @@
 
 <h2 align="center"</h2>
 
-[![LinkedIn](https://img.shields.io/badge/Youtube----red)]([https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw](https://www.youtube.com/channel/UCAGwb9DjuCwxYlnliRiBX9g))
+[![LinkedIn](https://img.shields.io/badge/Youtube----red)](https://www.youtube.com/channel/UCAGwb9DjuCwxYlnliRiBX9g)
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
