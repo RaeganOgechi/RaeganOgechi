@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![SARNAX_copy][https://cdn.discordapp.com/attachments/989886535514079242/989989442330706000/banner.png](https://github.com/Jokerr6666/Jokerr6666/blob/main/banner.png?raw=true))
+![banner](https://user-images.githubusercontent.com/108135973/175662990-6f6e31ea-da11-4fdd-96d6-93a2a61cd810.png)
 
 
 <p align="center">
