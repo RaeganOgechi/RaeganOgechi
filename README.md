@@ -54,7 +54,7 @@
 
 📮・The language I'm good at C++ Lua Python C#  LUA  Python  HTML JAVA 
 
-🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
+🎮・Add friend in steam : [Joker](https://steamcommunity.com/id/Joker666)
 
 </pre><br>
 
