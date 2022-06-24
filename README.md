@@ -44,7 +44,7 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [JOKER SERVER](https://discord.gg/hHzVZrAsnp)
+💢・Discord : [JOKER Ch4ats](https://discord.gg/hHzVZrAsnp)
 
 ✔️・Full Stack Developer
 
