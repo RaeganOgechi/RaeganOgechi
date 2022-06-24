@@ -44,15 +44,15 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [HEX SERVER](https://discord.gg/7vVb9g7FGT)
+💢・Discord : [JOKER SERVER](https://discord.gg/hHzVZrAsnp)
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+📩・Cheating Private - Source code - Spoofer / Dm discord [Jok#6666]
 
-🌐・Website: [Sarnax.xyz](https://sarnaxlii.github.io/sarnax.github.io/)
+🌐・Website: [Soon](Soon)
 
-📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
+📮・The language I'm good at C++ Lua Python C#  LUA  Python  HTML JAVA 
 
 🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
 
@@ -69,6 +69,6 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax server discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-1/943374631644045363.png"/>
+        <img title="Joker server discord" alt="Joker's discord" src="https://discord.c99.nl/widget/theme-1/943374631644045363.png"/>
     </a>
 </p>
