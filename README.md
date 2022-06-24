@@ -67,6 +67,6 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Joker server discord" alt="Joker's discord" src="https://discord.c99.nl/widget/theme-3/567780163786375181.png"/>
+        <img title="Joker discord server" alt="Joker's discord" src="https://discord.c99.nl/widget/theme-3/567780163786375181.png"/>
     </a>
 </p>
