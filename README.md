@@ -15,10 +15,6 @@
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma)
-<hr>
-
-  
-
 
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
