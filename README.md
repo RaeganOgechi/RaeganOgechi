@@ -62,9 +62,8 @@
 
 <h2 align="center"</h2>
 
-[![LinkedIn](https://img.shields.io/badge/Youtube----red)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
+(https://www.youtube.com/channel/UCAGwb9DjuCwxYlnliRiBX9g))
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17776779/sarnax) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sarnax2) 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
