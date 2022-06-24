@@ -20,6 +20,7 @@
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=Lua&logoColor=00008B"></a> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=ffffe0"></a> 
   <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB"></a>    
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
