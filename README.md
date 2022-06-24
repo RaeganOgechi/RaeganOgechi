@@ -10,8 +10,8 @@
 <p align="center">
     <a href="https://discord.gg/hHzVZrAsnp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Jok%236666-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/SarnaxLii">
-   <img alt="Github" src="https://img.shields.io/github/followers/Joker?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  <a href="https://github.com/Jokerr6666">
+   <img alt="Github" src="https://img.shields.io/github/followers/Jokerr6666?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma)
