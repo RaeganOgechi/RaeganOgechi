@@ -19,12 +19,6 @@
 
   
 
-  
-</p>
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
-
 
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
