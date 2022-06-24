@@ -6,16 +6,9 @@
 ![banner](https://user-images.githubusercontent.com/108135973/175662990-6f6e31ea-da11-4fdd-96d6-93a2a61cd810.png)
 
 
-<p align="center">
-  <a href="soon/">
-   <img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
-  
-
-
-  
 </p>
 <p align="center">
-    <a href="https://discord.gg/JsxqNHgR4m">
+    <a href="https://discord.gg/hHzVZrAsnp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
