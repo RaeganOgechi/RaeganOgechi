@@ -10,8 +10,8 @@
 <p align="center">
     <a href="https://discord.gg/hHzVZrAsnp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Jok%236666-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Jokerr6666">
-   <img alt="Github" src="https://img.shields.io/github/followers/Jokerr6666?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  <a href="https://github.com/RaeganOgechi">
+   <img alt="Github" src="https://img.shields.io/github/followers/RaeganOgechi?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma)
@@ -44,11 +44,11 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [Joker Ch4ats](https://discord.gg/hHzVZrAsnp)
+💢・Discord : [Raegan Ch4ts](https://discord.gg/hHzVZrAsnp)
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Jok#6666]
+📩・Cheating Private - Source code - Spoofer / Dm discord [Raegan Ogechi#7360]
 
 🌐・Website: [Soon](Soon)
 
@@ -67,6 +67,6 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Joker discord server" alt="Joker's discord" src="https://discord.c99.nl/widget/theme-3/567780163786375181.png"/>
+        <img title="Raegan discord server" alt="Raegan's discord" src="https://discord.c99.nl/widget/theme-3/567780163786375181.png"/>
     </a>
 </p>
