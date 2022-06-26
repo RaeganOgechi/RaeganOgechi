@@ -3,13 +3,13 @@
   
 <p align="center">
   
-![banner](https://user-images.githubusercontent.com/108135973/175662990-6f6e31ea-da11-4fdd-96d6-93a2a61cd810.png)
+![RaeganOgechi](https://user-images.githubusercontent.com/108135973/175811534-bee69d0c-d3eb-4b83-86a4-494e8bfa84e6.png)
 
 
 </p>
 <p align="center">
     <a href="https://discord.gg/hHzVZrAsnp">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Jok%236666-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Raegan Ogechi%237360-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/RaeganOgechi">
    <img alt="Github" src="https://img.shields.io/github/followers/RaeganOgechi?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
@@ -33,11 +33,11 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/Jokerr6666">
-        <img title="Jokerr stats" alt="Joker's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jokerr6666&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/RaeganOgechi">
+        <img title="Raegan stats" alt="Raegan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RaeganOgechi&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/Jokerr6666"><img alt=Joker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jokerr6666&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/RaeganOgechi"><img alt=Raegan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RaeganOgechi&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 
@@ -54,7 +54,6 @@
 
 📮・The language I'm good at C++ Lua Python C#  LUA  Python  HTML JAVA 
 
-🎮・Add friend in steam : [Joker](https://steamcommunity.com/id/Joker666)
 
 </pre><br>
 
